@@ -1,4 +1,7 @@
-# 📋 Sobre a atividade
+https://redux-pokemon.vercel.app/
+
+
+# 📋 Sobre a atividade  
 
 Nesta atividade estaremos utilizando a [API Digimon](https://digimon-api.vercel.app/api/digimon "Link") para desenvolver uma aplicação onde vamos utilizar conceitos de integração com **API** + **Redux Thunks**
 
